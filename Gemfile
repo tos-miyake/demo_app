@@ -42,3 +42,5 @@ gem 'spring',        group: :development
 group :production do
   gem 'rails_12factor','0.0.2'
 end
+
+gem 'haml-rails'
